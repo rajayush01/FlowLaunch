@@ -6,4 +6,4 @@ Step 2- Open the extracted file in VS Code
 
 Step 3- Now open the terminal and run "npm install"(This will install all the dependecies)
 
-Step 4- After that run "npm start" to run it on you local host
+Step 4- After that run "npm run dev" to run it on you local host
